@@ -5,10 +5,10 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"name": "Python: Sorting",
+			"name": "Python: Current File",
 			"type": "python",
 			"request": "launch",
-			"program": "sort.py",
+			"program": "${file}",
 			"console": "internalConsole",
 			"internalConsoleOptions": "openOnSessionStart"
 		}
