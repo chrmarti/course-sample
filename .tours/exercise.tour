@@ -1,0 +1,20 @@
+{
+  "title": "exercise",
+  "steps": [
+    {
+      "file": "01-sort/sort.py",
+      "line": 3,
+      "description": "Sort the words in the array."
+    },
+    {
+      "file": "02-reverse/reverse.py",
+      "line": 3,
+      "description": "Sort the words array in reverse."
+    },
+    {
+      "file": "02-reverse/reverse.py",
+      "line": 5,
+      "description": "Also reverse the letters in each word."
+    }
+  ]
+}
